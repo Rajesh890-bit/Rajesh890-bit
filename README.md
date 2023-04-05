@@ -1,12 +1,8 @@
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)  -->
 <div>
-<h2 align="center">  
- 
- 
+<h1 align="center">  
  <i>Hi 👋, I am Rajesh Pradhan.</i> 
- <div></div>  
-</h2>
-<hr>
+</h1>
 <h2 align="center">
 A passionate full stack web developer from India
 </h2>
