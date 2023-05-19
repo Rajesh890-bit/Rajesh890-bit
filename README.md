@@ -15,7 +15,7 @@ A passionate full stack web developer from India
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1KVEDHYtMddALFwpVm_P1rS7PtZtlTT4B/view?usp=share_link">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1hYfSh8-0vZcWZRVz0lN8Hh2qwye6bO0c/view">Resume</a><br><br>
  📫  Know more about me <a href="https://rajesh890-bit.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Rajesh890-bit?tab=repositories">My Github Repositories</a><br><br> 
