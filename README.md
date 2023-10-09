@@ -90,7 +90,7 @@ A passionate full stack web developer from India
 
  <div align="center">
  <h2> ✍️ Random Fun Fact </h2>
-   <h3>The majority of your brain is fat....</h3>
+   <h3>I Always try to learn something new and then sleep till it stores in the brain 😎</h3>
  </div>
  
 </div> 
